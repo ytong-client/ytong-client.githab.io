@@ -1,7 +1,7 @@
 //
 // обработка ссылок 
-let office_ios = "https://aim29.ru/AR/workbox_1 (4).usdz"
-let office_andr = "intent://arvr.google.com/scene-viewer/1.0?file=https://aim29.ru/AR/workbox_1 (4).glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://promo.ytong.ru/MobileList;end;"
+let office_ios = "https://ytong-client.github.io/ytong-client.githab.io/workbox_1 (4).usdz"
+let office_andr = "intent://arvr.google.com/scene-viewer/1.0?file=https://ytong-client.github.io/ytong-client.githab.io/workbox_1 (4).glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://promo.ytong.ru/MobileList;end;"
 let office_dt="#office_box"
 
 if (navigator.userAgent.toLowerCase().match(/(ipad|iphone|ipod)/)) {
